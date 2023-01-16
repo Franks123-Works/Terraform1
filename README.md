@@ -9,6 +9,7 @@
 #### Run Terraform init on your terminal
 #### Run Terraform plan 
 #### Run Terraform apply to create and manage your cloud infrastructure
+#### Copy and paste IP address from your instance into your browser
 #### Run Terraform destroy to destroy infrastructure
 
 
